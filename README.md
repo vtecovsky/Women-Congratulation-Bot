@@ -6,6 +6,9 @@ To work with this bot you need to add it in your group.
 
 The idea behind is that users in the group can press the button and receive a compliment. This bot is dedicated to the International Women's Day.
 
-To activate the bot, type /compliment. 
+To activate the bot type /compliment in the chat. 
+
+Example of using the bot:
+![Image alt](https://github.com/vtecovsky/Auto-Market-Spot/raw/main/example_of_using.png)
 
 
